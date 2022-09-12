@@ -20,6 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Ph.D. Candidate at the department of political science at the University of California Los Angeles. 
 
-Broadly, I study the political economy of development, conflict processes, and intergroup relations in Sub-Saharan Africa. In my dissertation, I investigate how climate change can increase violent conflicts from the perspective of social diversity.
+Broadly, I study the political economy of development, conflict processes, and intergroup relations in Sub-Saharan Africa. In my dissertation, I investigate how climate change can increase violent conflicts from the perspective of intergroup relations.
 
 You can contact me at jiyoungkim12 [at] ucla [dot] edu
