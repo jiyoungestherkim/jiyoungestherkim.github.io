@@ -7,4 +7,10 @@ nav: true
 nav_order: 3
 ---
 
-My research
+### Dissertation project
+- Dividing Us: How Climate Change Increase Violent Conflict
+
+### Working papers
+- Proximity Matters: How Exposure to Violent Events Affect Social Trust
+
+### Work in progress
