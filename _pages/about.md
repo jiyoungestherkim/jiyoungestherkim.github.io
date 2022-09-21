@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate, <a href='#'> Political Science, UCLA </a> 		# You can put a link to the department website <a href='#'> Affiliation </a>
+subtitle: Ph.D. Candidate, <a href='https://polisci.ucla.edu/person/jiyoung-kim/'> Political Science, UCLA </a> 		# You can put a link to the department website <a href='#'> Affiliation </a>
 
 profile:
   align: right
