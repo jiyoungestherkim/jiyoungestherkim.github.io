@@ -7,6 +7,10 @@ nav: true
 nav_order: 4
 ---
 
+##### Instructor of Record
+
+- **Climate Change and Conflict in Africa** (Summer 2023, Spring 2024)
+
 ##### Teaching Assistant at UCLA
 
 - **Intro to Comparative Politics** (Fall 2020, Winter 2021, Fall 2021)
