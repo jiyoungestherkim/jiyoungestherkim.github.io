@@ -18,7 +18,4 @@ nav_order: 4
 - **African Politics** (Winter 2020)
 - **Intro to Data Analysis** (Spring 2021)
 - **Intro to American Politics** (Fall 2019)
-	
-##### Guest Lecturer
 
-- **Intro to International Relations**, Saint Louis University (Fall 2019)
