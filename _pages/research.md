@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 ##### Dissertation project
-- **Dividing Us: How Climate Change Can Increase Violent Conflict**
+- **Drought of Tolerance: Climate Change and Intergroup Conflict in Africa**
 
 
 ##### Articles
