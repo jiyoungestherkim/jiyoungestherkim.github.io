@@ -18,8 +18,8 @@ selected_papers:  false 		# true if you want to include a list of papers marked 
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. Candidate in the department of political science at the University of California Los Angeles. 
+I am a Ph.D. Candidate in the department of political science at the University of California Los Angeles.
 
-Broadly, I study the political economy of development, conflict processes, and intergroup relations in Sub-Saharan Africa. In my dissertation, I investigate how climate change can increase violent conflicts through the lens of how it affects social dynamics.
+My research broadly focuses on climate change, identity, and intergroup relations. My dissertation project studies how climate change affects group-based perceptions, attitudes, and behaviors, and how to foster social cohesion in the context of climate-induced intergroup conflict. In other work, I study the intersection of climate change and migration, post-conflict rehabilitation and reintegration, and gender. Across my research, I use spatial data, surveys, and in-depth interviews during fieldwork. Regionally, most of my work is focused on Sub-Saharan Africa, primarily Nigeria. My research has been published in the *Proceedings of the National Academy of Sciences*.
 
-You can contact me at jiyoungkim12 [at] ucla [dot] edu
+You can contact me at jiyoungkim12 [at] ucla [dot] edu.
