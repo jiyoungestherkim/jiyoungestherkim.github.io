@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 2
-cv_pdf: CV_202405.pdf
+cv_pdf: 
 ---
 
 You can find my CV 
