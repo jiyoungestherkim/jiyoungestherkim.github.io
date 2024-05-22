@@ -13,13 +13,13 @@ nav_order: 3
 
 ##### Articles
 
-- <a href='https://www.pnas.org/doi/full/10.1073/pnas.2105570118'> **Trusted Authorities Can Change Minds and Shift Norms during Conflict** </a> <br> with Graeme Blair, Rebecca Littman, Elizabeth R. Nugent, Rebecca Wolfe, Mohammed Bukar, Benjamin Crisman, Anthony Etim, Chad Hazlett. <br> ***Proceedings of the National Academy of Sciences***, 2021, 118 (42).
+- <a href='https://www.pnas.org/doi/full/10.1073/pnas.2105570118'> **Trusted Authorities Can Change Minds and Shift Norms during Conflict** </a> <br> with Graeme Blair, Rebecca Littman, Elizabeth R. Nugent, Rebecca Wolfe, Mohammed Bukar, Benjamin Crisman, Anthony Etim, and Chad Hazlett. <br> ***Proceedings of the National Academy of Sciences***, 2021, 118 (42).
 
 
 ##### Working papers
 - **Citizens’ Beliefs, Climate Change, and the Farmer-Pastoralist’s Violent Conflict: Experimental Evidence from Nigeria** <br> with Efobi Uchenna and Adejumo Oluwabunmi. *Under Review*
 - **Proximity Matters: Exposure to Violent Events Affects Trust within a Community**
-- **Removing Social Barriers to Women's Candidacy: A Field Experiment in Cambodia** <br> with Elayne Stecher, Cesi Cruz.
+- **Removing Social Barriers to Women's Candidacy: A Field Experiment in Cambodia** <br> with Elayne Stecher and Cesi Cruz.
 
 ##### Works in progress
 - **Disseminating and Effective Intervention to Victims of Herder-Farmer Conflict: Evidence from a Randomized Evaluation of ‘Root Cause of the Conflict’ Workshops at IDP Camps in Nigeria** <br> with Adejumo Oluwabunmi, Daniel Posner, and Efobi Uchenna.
