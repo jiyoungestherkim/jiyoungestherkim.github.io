@@ -11,7 +11,7 @@ nav_order: 4
 
 - **Climate Change and Conflict in Africa** (Summer 2023, Spring 2024)
 
-##### Teaching Assistant at UCLA
+##### Teaching Assistant
 
 - **Intro to Comparative Politics** (Fall 2020, Winter 2021, Fall 2021)
 - **Political Economy of Development** (Spring 2020)
