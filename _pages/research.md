@@ -24,6 +24,6 @@ nav_order: 3
 ##### Works in progress
 - **Disseminating and Effective Intervention to Victims of Herder-Farmer Conflict: Evidence from a Randomized Evaluation of ‘Root Cause of the Conflict’ Workshops at IDP Camps in Nigeria** <br> with Adejumo Oluwabunmi, Daniel Posner, and Efobi Uchenna.
 - **Disrupted Interdependence: Modernizing Fertilizer and Farmers-Herders Conflicts in Nigeria**
-- **Climate Change as a Shared Threat: Enhancing Acceptance of Climate Migrants in the US**
+- **Climate Change as a Shared Threat: Enhancing Acceptance of Climate Migrants**
 - **Shifting Mindsets through Experiential Framing: Climate Change Perceptions and Migration Support** <br> with Jieun Park.
 - **Elite Message and Support for Separatist Movement in Nigeria** <br> with Ada Johnson-Kanu. 
