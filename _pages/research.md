@@ -13,7 +13,7 @@ nav_order: 3
 
 ##### Articles
 
-- <a href='https://www.pnas.org/doi/full/10.1073/pnas.2105570118'> **Trusted Authorities Can Change Minds and Shift Norms during Conflict** </a> <br> with Graeme Blair, Rebecca Littman, Elizabeth R. Nugent, Rebecca Wolfe, Mohammed Bukar, Benjamin Crisman, Anthony Etim, and Chad Hazlett. <br> ***Proceedings of the National Academy of Sciences***, 2021, 118 (42).
+- <a href='https://www.pnas.org/doi/full/10.1073/pnas.2105570118'> **Trusted Authorities Can Change Minds and Shift Norms during Conflict** </a> <br> with Graeme Blair, Rebecca Littman, Elizabeth R. Nugent, Rebecca Wolfe, Mohammed Bukar, Benjamin Crisman, Anthony Etim, and Chad Hazlett. <br> *Proceedings of the National Academy of Sciences*, 2021, 118 (42).
 
 
 ##### Working papers
