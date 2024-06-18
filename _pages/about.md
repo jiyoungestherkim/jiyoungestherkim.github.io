@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate, <a href='https://polisci.ucla.edu/person/jiyoung-kim/
 
 profile:
   align: right
-  image: headshot_jan2024.jpg
+  image: headshot_jan2024_small.jpg
   image_circular: false # crops the image to make it circular
   address: 
     # <p>555 your office number</p>
