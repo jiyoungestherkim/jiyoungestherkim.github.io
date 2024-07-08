@@ -9,7 +9,7 @@ nav_order: 4
 
 ##### Instructor of Record
 
-- **Climate Change and Conflict in Africa** (Summer 2023, Spring 2024)
+- **Climate Change and Conflict in Africa** (Summer 2023, Spring 2024, Fall 2024)
 
 ##### Teaching Assistant
 
