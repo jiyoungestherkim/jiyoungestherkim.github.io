@@ -17,7 +17,7 @@ nav_order: 3
 
 
 ##### Working papers
-- **Citizens’ Beliefs, Climate Change, and the Farmer-Pastoralist’s Violent Conflict: Experimental Evidence from Nigeria** <br> with Uchenna Efobi and Oluwabunmi Adejumo. *Invited to Revise and Resubmit at Ecological Economics*
+- **Citizens’ Beliefs, Climate Change, and the Farmer-Pastoralist’s Violent Conflict: Experimental Evidence from Nigeria** <br> with Uchenna Efobi and Oluwabunmi Adejumo. <br> *Invited to Revise and Resubmit at Ecological Economics*
 - **Proximity Matters: Exposure to Violent Events Affects Trust within a Community**
 - **Removing Social Barriers to Women's Candidacy: A Field Experiment in Cambodia** <br> with Cesi Cruz and Elayne Stecher.
 
