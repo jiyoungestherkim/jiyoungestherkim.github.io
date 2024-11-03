@@ -8,4 +8,4 @@ cv_pdf:
 ---
 
 
-You can find my CV <a href='https://www.dropbox.com/scl/fi/ewld6l7rtqaylzbm5cxrn/CV_202409.pdf?rlkey=69rkxonwq9lmvomalpp5cxzmk&dl=0'> here</a>.
+You can find my CV <a href='https://www.dropbox.com/scl/fi/j93hgha9w5ct1s025mrcl/CV_202411.pdf?rlkey=6lyy4nr2f156bu8cwd5r517je&dl=0'> here</a>.
