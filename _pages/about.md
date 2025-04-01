@@ -20,6 +20,8 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Ph.D. Candidate in the department of political science at the University of California Los Angeles.
 
-My research broadly focuses on climate change, identity, and intergroup relations. My dissertation project examines how climate change affects group-based perceptions, attitudes, and behaviors, and how to foster social cohesion in the context of climate-induced intergroup conflict. In other work, I study the intersection of climate change and migration, post-conflict rehabilitation and reintegration, and gender. Across my research, I use spatial data, surveys, experiments, and in-depth interviews during fieldwork. Regionally, most of my work is focused on Sub-Saharan Africa, primarily Nigeria. My research has been published in the *Proceedings of the National Academy of Sciences*.
+My research focuses on climate change and intergroup dynamics in the Global South. My dissertation examines how climate change-induced economic hardship impacts social fabric and explores effective strategies for mitigating these negative effects in Sub-Saharan Africa, with Nigeria as my main research site. My broader research portfolio includes work on public attitudes toward climate-induced migration, building social cohesion in conflict-affected areas, and gender issues. Methodologically, I employ a diverse toolkit including statistical inference, geospatial analysis, surveys, experiments, and in-depth fieldwork interviews.
+
+My work has received support from prestigious sources including the *NSF-APSA Doctoral Dissertation Research Improvement Grant* and the *UC Institute on Global Conflict and Cooperation Dissertation Fellowship*. My research has been published in the *Proceedings of the National Academy of Sciences* and accepted at *Ecological Economics*.
 
 You can contact me at jiyoungkim12 [at] ucla [dot] edu.
