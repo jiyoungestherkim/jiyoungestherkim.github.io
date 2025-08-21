@@ -2,11 +2,19 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: # Please contact me for syllabi or course materials
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+##### Instructor of Record
 
-Organize your courses by years, topics, or universities, however you like!
+- **Climate Change and Conflict in Africa** (Summer 2023, Spring 2024, Fall 2024)
+
+##### Teaching Assistant
+
+- **Intro to Comparative Politics** (Fall 2020, Winter 2021, Fall 2021)
+- **Political Economy of Development** (Spring 2020)
+- **African Politics** (Winter 2020)
+- **Intro to Data Analysis** (Spring 2021)
+- **Intro to American Politics** (Fall 2019)
