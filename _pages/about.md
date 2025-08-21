@@ -24,10 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Assistant Professor (fixed-term) in the Department of Political Science at Michigan State University.
+I am an Assistant Professor (fixed-term) of Political Science at Michigan State University. 
 
-My research focuses on climate change and intergroup dynamics in the Global South. My dissertation examines how climate change-induced economic hardship impacts social fabric and explores effective strategies for mitigating these negative effects in Sub-Saharan Africa, with Nigeria as my main research site. My broader research portfolio includes work on public attitudes toward climate-induced migration, building social cohesion in conflict-affected areas, and gender issues. Methodologically, I employ a diverse toolkit including statistical inference, geospatial analysis, surveys, experiments, and in-depth fieldwork interviews.
+My research focuses on how climate change affects intergroup relations in the Global South. My dissertation examines how climate change-induced economic hardship impacts social fabric and explores effective strategies for mitigating these negative effects in Sub-Saharan Africa, with Nigeria as my main research site. My broader research portfolio includes work on public attitudes toward climate-induced migration, building social cohesion in conflict-affected areas, and gender issues. Methodologically, I employ a diverse toolkit including statistical inference, geospatial analysis, surveys, experiments, and in-depth fieldwork interviews.
 
-My work has received support from prestigious sources including the *NSF-APSA Doctoral Dissertation Research Improvement Grant* and the *UC Institute on Global Conflict and Cooperation Dissertation Fellowship*. My research has been published in the *Proceedings of the National Academy of Sciences* and accepted at *Ecological Economics*.
+My research has been published in the *Proceedings of the National Academy of Sciences* and *Ecological Economics*. My work is supported by the *NSF-APSA Doctoral Dissertation Research Improvement Grant* and the *UC Institute on Global Conflict and Cooperation Dissertation Fellowship* among others. I received my PhD in Political Science from UCLA in 2025.
 
-You can contact me at jiyoungkim12 [at] ucla [dot] edu.
+You can contact me at jkim12 [at] msu [dot] edu.
