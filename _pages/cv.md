@@ -12,6 +12,6 @@ You can find my CV <a href='https://www.dropbox.com/scl/fi/s70cu0cbb097c9kpnha3w
 <figure style="text-align: center;">
   <img src="/assets/img/IMG_4197.jpg" alt="Description of image" style="max-width:85%; border-radius:8px;">
   <figcaption style="margin-top: 8px; font-style: italic;">
-    © 2025 Jiyoung Kim. Plateau State, Nigeria.
+    © 2022 Jiyoung Kim. Plateau State, Nigeria.
   </figcaption>
 </figure>
