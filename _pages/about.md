@@ -30,4 +30,4 @@ My research focuses on how climate change affects intergroup relations in the Gl
 
 My research has been published in the *Proceedings of the National Academy of Sciences* and *Ecological Economics*. My work is supported by the *NSF-APSA Doctoral Dissertation Research Improvement Grant* and the *UC Institute on Global Conflict and Cooperation Dissertation Fellowship* among others. I received my PhD in Political Science from UCLA in 2025.
 
-You can contact me at jiyoung.esther.kim [at] gmail [dot] com.
+You can contact me at jkim12 [at] msu [dot] edu.
