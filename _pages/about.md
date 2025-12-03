@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Assistant Professor (fixed-term) of Political Science at Michigan State University. 
+I am an Assistant Professor of Political Science at Michigan State University. 
 
 My research focuses on how climate change affects intergroup relations in the Global South. I am currently working on a book project that examines how climate change-induced economic hardship impacts social fabric in ethnically diverse communities, and explores effective strategies for mitigating these negative effects in Sub-Saharan Africa, with Nigeria as my main research site. This work is part of my broader research portfolio, which includes work on public attitudes toward climate-induced migration, building social cohesion in conflict-affected areas, and gender issues. Methodologically, I employ a diverse toolkit including statistical inference, geospatial analysis, surveys, and experiments. I also conduct extensive in-depth fieldwork interviews.
 
