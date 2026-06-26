@@ -7,7 +7,9 @@ nav_order: 2
 cv_pdf: 
 ---
 
-You can find my CV <a href='https://www.dropbox.com/scl/fi/ae2e9uhjwtolo1zblp5ij/CV_202509.pdf?rlkey=efh3wle8rjh3eo5c5pyuhs7zj&dl=0'> here</a>.
+You can find my CV <a href='https://www.dropbox.com/scl/fi/shgdomx3cwvitszsd32sp/CV_202606.pdf?rlkey=5osya3hn8pa55qid2e41arx72&dl=0'> here</a>.
+
+
 
 <figure style="text-align: center;">
   <img src="/assets/img/IMG_4197.jpg" alt="Description of image" style="max-width:85%; border-radius:8px;">
